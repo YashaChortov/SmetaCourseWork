@@ -77,15 +77,3 @@ flowchart LR
     B <--> C[Model]
     C <--> D[(Database)]
 
-
-
-
-
-
-
-
-подготовлена class diagram;
-подготовлена sequence diagram;
-подготовлена use case diagram;
-подготовлена activity diagram;
-подготовлена state diagram
