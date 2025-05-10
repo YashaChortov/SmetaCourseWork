@@ -57,12 +57,12 @@ flowchart TD
 
 ```mermaid
 flowchart LR
-    User --> CreateEstimate["Create Estimate"]
-    User --> AddItem["Add Item"]
-    User --> DeletePosition["Delete position"]
-    User --> CalculateTotal["Calculate total"]
-    User --> ExportToPDF["Export to PDF"]
-    User --> SaveToDatabase["Save to database"]
+    User --> CreateEstimate["Создать смету"]
+    User --> AddItem["Добавить позицию"]
+    User --> DeletePosition["Удалить позицию"]
+    User --> CalculateTotal["Рассчитать итого"]
+    User --> ExportToPDF["Экспорт в PDF"]
+    User --> SaveToDatabase["Сохранить в базу"]
 ```
 
 # State Diagram
