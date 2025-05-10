@@ -16,7 +16,7 @@ flowchart TD
 # State Diagram
 
 ```mermaid
-stateDiagram-v1
+stateDiagram-v2
     [*] --> Черновик
     Черновик --> Утверждена: Подтвердить
     Утверждена --> Архив: Завершить
